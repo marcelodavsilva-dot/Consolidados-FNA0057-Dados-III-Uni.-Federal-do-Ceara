@@ -17,5 +17,5 @@ O objetivo central das atividades foi implementar, avaliar e comparar algoritmos
 
 **Marcelo David**  
 Estudante de Ciências Econômicas — Universidade Federal do Ceará (UFC), Entusiasta de Auditoria e Análise de Dados.  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://br.linkedin.com/in/marcelodavd)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com)
